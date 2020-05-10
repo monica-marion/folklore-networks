@@ -1,0 +1,87 @@
+Area,Title,Source,Collection,ID,A,B,C,C1,C2,D,E,F,G,H,H1,I,J,J1,J6,K1,K3,K7,L,M1,M3,M,N,STType
+Eskimo,Smith Sound,"JAFL, Vol. 12, 180",1897-98 in New York City,1,1,6,0,0,0,6,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Eskimo,Kodiak 1,"Golder, JAFL, Vol. 16, 28, no. 5","Russian, Unga Island, Alaska, c. 1901.-Fragmentary",2,3,1,1,0,0,5,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eskimo,Kodiak 2,"Golder, J AFL, Vol. 16, 21, no. 3","Russian, Unga Island, Alaska, c. 1901.-Fragmentary",3,1,6,4,0,0,7,4,8,2,0,0,1,2,0,0,9,0,1,1,0,0,0,7,0
+Mackenzie,Kaska,"Teit, J AFL, Vol. 3D, 457, no. 13","1915, foot of Dease Lake",4,2,1,1,0,0,4,4,13,1,0,0,1,0,0,0,1,1,0,1,0,5,0,3,3
+Mackenzie,Carrier,"Jenness, JAFL, Vol. 57, 200","1924-25, Fort Fraser",5,2,6,1,0,0,8,0,0,1,0,0,3,2,0,0,3,3,0,1,0,0,0,3,3
+North Pacific,Tahltan,"Teit, JAFL, Vol. 34, 247","1915, Telegraph Creek",6,2,1,1,0,0,4,4,10,1,0,0,1,0,0,0,3,0,0,1,0,0,8,3,3
+North Pacific,Ts'ets'aut,"Boas, JAFL, Vol. 10, 39, no. 12","winter 1894-95, Portland Inle",7,2,1,1,0,0,4,4,13,1,0,0,1,0,0,0,3,1,0,1,0,0,0,3,3
+North Pacific,Bella Bella,"Boas, MAFLS, Vol. 25, 107",1925 by George Hunt,8,2,1,1,0,0,4,3,0,2,0,0,3,4,0,0,2,0,0,1,0,0,0,2,1
+North Pacific,Chilcotin 1,"Farrand, JE, Vol. 2, 31, no. 16",1897 .-Fragmentary,9,2,1,1,0,0,4,4,4,1,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0
+North Pacific,Chilcotin 2,"Farrand, JE, Vol. 2, 28, no. 12",1897.-Fragmentary,10,2,8,4,0,0,0,0,0,1,2,0,1,2,0,0,8,5,0,1,0,0,0,0,0
+North Pacific,Songish,"Boas, Indianisclte Sagen von der nordpacifischen Küste Amerikas, (Berlin, 1895), p. 62.",c. 1893,11,2,1,3,0,1,4,4,0,1,1,0,1,0,0,0,3,0,0,1,0,0,0,0,1
+North Pacific,Klallam,"Gunther, UWash, Vol. 1, 135, no. 4","c. 1924, Port Angeles, Washington",12,2,1,0,0,0,0,4,0,1,0,0,1,0,0,0,4,0,0,1,0,0,1,0,1
+North Pacific,Quileute 1,"Farrand-Mayer, JAFL, Vol. 32, 264, no. 10",Collected 1898,13,2,1,1,0,0,4,4,4,1,0,0,0,0,0,0,1,0,0,1,2,0,0,4,5
+North Pacific,Quileute 2,"Andrade, CU, Vol. 12, 71",n/a,14,2,1,3,0,1,4,4,0,1,0,0,0,1,1,0,3,0,0,1,2,0,0,4,0
+North Pacific,Quinault,"Farrand, JE, Vol. 2, 107, no. 5",1898,15,2,1,3,0,1,4,4,4,1,0,0,0,1,1,0,3,0,0,3,2,1,0,4,5
+North Pacific,Chehalis 1,"Adamson, MAFLS, Vol. 27, 95.",1926 -Fragme tary,16,2,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+North Pacific,Chehalis 2,"Adamson, MAFLS, Vol. 27, 95",1927,17,2,1,1,0,0,4,4,4,1,0,0,0,1,0,0,3,4,0,1,0,0,0,0,1
+North Pacific,Snuqualmi 1,"Haeberlin, JAFL, Vol. 37, 373, no. 2",c. 1920,18,2,1,2,0,1,4,4,11,2,1,0,4,0,0,0,4,0,0,1,0,1,1,2,4
+North Pacific,Snuqualmi 2,"Haeherlin, JAFL, Vol. 37, 375, no. 2a","Copied by the author from Tacoma Evenillg News, no date",19,2,1,2,0,1,4,4,6,2,1,0,4,2,0,0,4,0,0,1,1,1,1,2,4
+North Pacific,Snuqualmi 3,"Ballard, UWash, Vol. 3, 69.","1916 from SnuQualmi Charlie (born c. 1850), Tolt, Washington",20,2,1,2,0,1,4,4,11,2,1,0,4,0,0,0,4,0,0,1,1,0,0,2,4
+North Pacific,Puyallup 1,"Curtis, The North American Indian, Vol. 9, 117",1905,21,2,0,0,0,0,0,4,4,2,1,0,1,0,0,0,3,5,0,1,0,4,0,2,4
+North Pacific,Puyallup 2,"Adamson, MAFLS, Vol. 27, 356",1926,22,5,1,3,0,1,4,4,4,1,0,0,4,0,0,0,3,5,0,1,0,0,0,0,1
+North Pacific,Cowlitz,"Adamson, MAFLS, Vol. 27, 269",c. 1926,23,2,1,3,0,1,4,4,4,2,1,0,4,0,0,0,3,6,0,1,0,0,0,2,4
+North Pacific,Coos 1,"Frachtenberg, CU, Vol. I, 51","before 1913, from Jim Buchanan (d. 1939) .-Fragmentary",24,2,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+North Pacific,Coos 2,"Jacobs, UWash, Vol. 8, 241","1932 at Florence, Oregon (a garbled rendering of a tale heard from JIm Buchanan).'",25,2,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+North Pacific,Coos 3,"Jacobs, UWash, Vol. 8, 169f.","Collected 1933 from Mrs. Annie M. Peterson, Learned by her from a woman m South Slough, Oregon.Fragmentary.",26,4,1,1,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+California,Maidu,"Dixon, PAES, Vol. 4, 183, no. 10",1902-3,27,2,1,1,0,0,4,4,0,2,0,0,0,0,0,0,3,2,0,4,0,0,0,0,1
+California,Patwin,"Kroeber, UCal, VoL 29, 306.",1923,28,1,6,0,0,0,8,7,0,1,1,0,1,4,0,0,1,0,0,1,0,0,0,7,0
+California,Washo 1,"Lowie, UCal, Vol. 36, 350","1926, Coleville, Calif.",29,2,1,1,0,0,4,4,0,2,1,1,1,0,0,0,3,2,0,5,0,0,0,0,1
+California,Washo 2,"Curtis, The North American Illdian, Vol. IS, 154.",c.1910,30,2,1,0,0,0,4,2,6,2,0,0,1,0,0,0,3,2,0,3,0,0,4,0,1
+Plateau,Shoshone 1,"Liljeblad manuscript, collected at Ft. Hall, Idaho, April 30, 1943, by Sven Liljeblad.-",n/a,31,2,1,1,0,0,4,4,4,1,0,0,3,2,0,0,10,6,1,1,0,0,0,0,1
+Plateau,Shoshone 2,"St. Clair-Lowie, JAFL, Vol. 22, 268, no. 6.",Collected before 1909 from Wind River Shoshone of Wyoming. The tale said not to be found among Lemhi Shoshone of Idaho,32,3,1,1,0,0,0,4,2,2,1,1,1,4,0,0,3,1,0,1,0,0,0,7,1
+Plateau,Wasco,"Curtin, PAES, Vol. 2, 302, no. 6",Collected before 1909,33,5,1,1,0,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1
+Plateau,Wishram,"Spier and Sapir, UWash, Vol. 3, 276.","1905 in Yakima Reservation, from Mrs. Mabel Teio. Original home of tribe opposite the Dalles on Columbia River",34,2,1,1,0,0,0,4,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plateau,Kutenai,"Boas, BBAE, Vol. 59, 247 , no . 70",1914 among Upper Kutenai,35,3,1,1,0,0,4,4,1,1,1,1,1,0,0,0,3,0,0,2,0,0,0,0,1
+Plateau,Shuswap,"Telt, JE, Vol. 2, 687",1900-- Fragmentary,36,2,1,1,0,0,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plains,Sarsi,"Curtis, The Nortlt Amerz.c an Illdl.a ll, Vo I. 18 , 140",n/a,37,3,1,1,0,0,5,4,2,2,1,1,1,4,0,0,3,1,0,1,0,0,0,0,0
+Plains,Blackfoot 1,"Wissler and Duvall, Pa AM , Vo I. 2, 58 , no . 3.",Collected 1903-7 in Montana,38,3,1,3,0,2,9,4,2,2,1,1,3,1,2,0,3,4,0,1,2,2,7,5,2
+Plains,Blackfoot 2,"M.cC lintock ' The Old North Trail (London, 1910), p. 491",1905 in Montana,39,3,1,3,0,2,9,4,2,2,1,1,3,1,2,0,3,4,0,1,0,0,0,1,2
+Plains,Gros Ventre 1,"Kroeber PaAM, VIo .1, 101 , no. 25",1901,40,3,1,1,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+Plains,Gros Ventre 2,"Kroeber, PaAM, Vol. 1, 100, no. 24.","1901, Ft. Belknap Reservation, Northern Montana",41,3,3,1,0,0,1,1,10,2,1,1,1,4,0,0,3,2,0,1,0,0,0,6,0
+Plains,Gros Ventre 3,"Kroeber, PaAM, Vol. 1, 90, no. 21.",n/a,42,1,5,0,0,0,1,1,2,2,0,0,1,4,0,0,3,2,0,5,1,0,0,1,0
+Plains,Cree 1,"Bloomfield, Nat. Mus. Can., Vol. 60, 177, no. 21","1925, Battleford Agency, Saskatchewan.",43,1,7,2,0,1,0,3,2,2,1,1,2,2,0,0,3,2,0,5,0,0,0,1,2
+Plains,Cree 2,"Bloomfield, Nat. Mus. Can., Vol. 60, 314, no. 34.","1925, Battleford Agency, Saskatchewan",44,2,1,0,0,0,4,4,4,1,0,0,2,2,0,0,10,6,0,1,0,3,0,3,3
+Plains,Cree 3,"Skinner, PaAM, Vol. 9, 113",1908 from Rupert House Cree (Southeast shore James Bay),45,2,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plains,Assiniboine,"Lowie, PaAM, Vol. 4, 171, no. 18","1907, Morley, Alberta",46,2,1,1,2,0,0,4,4,1,1,0,1,1,0,0,10,4,1,1,0,0,0,3,3
+Plains,Arikara 1,"Dorsey, CI, Vol. 17,45, no. 14.","1903, Ft. Berthold Reservation, North Dakota",47,3,3,1,1,0,1,4,3,2,1,3,1,2,0,0,3,2,0,5,0,0,0,1,2
+Plains,Arikara 2,"Dorsey, CI, Vol. 17, 56, no. 15","1903, Ft. Berthold Reservation, North Dakota",48,3,1,1,1,0,4,4,0,2,1,1,1,2,0,0,3,2,0,5,0,0,0,1,2
+Plains,Hidatsa 1,"Lowie, DCal, Vol. 40, 2.","1910-11 at Ft. Berthold Reservation, North Dakota",49,3,5,0,0,0,1,1,0,2,3,1,1,0,0,0,3,2,0,5,1,0,0,1,2
+Plains,Hidatsa 2,"Beckwith, MAFLS, Vol. 32, 117",1931,50,3,5,0,0,0,1,1,0,2,3,1,1,1,0,0,3,2,0,5,1,0,0,1,2
+Plains,Crow 1,"Lowie, PaAM, Vol. 25, 52","1914, Crow Reservation,Montana",51,1,5,2,0,2,1,3,0,2,1,1,1,1,0,0,3,2,0,5,1,0,0,1,2
+Plains,Crow 2,Lowie PaAM V I 25 57,"1914, Crow Reservation, Montana",52,3,2,2,0,3,1,7,0,2,3,1,1,4,0,0,5,2,0,5,0,0,0,1,2
+Plains,Crow 3,Lowie PaAM Vol 25 69,"1914, Crow Reservation, Montana",53,3,2,2,0,2,2,7,0,2,3,1,1,4,0,0,3,2,0,5,2,0,0,1,2
+Plains,Crow 4,"Simms FM, Vol. 2, 299, no. 17",1902 from an old man,54,1,5,2,0,2,1,3,0,2,3,0,1,4,0,0,5,2,0,5,0,0,0,1,2
+Plains,Cheyenne,"Grinnell, JAFL, Vol. 34, 308","Collected ""many years"" before 1921from White Bull, a Northern Cheyenne",55,3,3,1,0,0,3,4,3,2,1,1,1,0,0,0,3,7,0,5,0,0,0,1,2
+Plains,Dakota 1,Riggs CNAE Vol 9 90,Santee Dakota 1837-1883,56,3,1,1,0,0,4,4,4,2,1,1,1,0,0,0,6,0,0,5,0,0,0,1,2
+Plains,Dakota 2,"Wallis, JAFL, Vol. 36, 85, no 19","1914 at Griswold, Manitoba",57,3,0,0,0,0,0,5,0,2,1,1,1,0,0,0,6,0,0,5,0,0,0,1,2
+Plains,Arapaho 1,"Dorsey and Kroeber, FM, Vol. 5,330, no. 135",before 1903,58,3,2,2,0,2,3,6,0,1,1,1,1,0,0,0,3,2,0,1,0,0,0,0,2
+Plains,Arapaho 2,"Dorsey, FM, Vol. 4, 212",1903,59,3,2,0,0,0,1,1,2,2,1,1,1,0,0,0,3,2,0,5,1,0,3,1,2
+Plains,Arapaho 3,"Dorsey and Kroeber, FM, Vol. 5, 321, no. 134",collected before 1903,60,3,4,3,0,2,3,1,2,2,1,1,1,0,0,0,3,2,0,5,1,0,0,1,2
+Plains,Arapaho 4,"Dorsey and Kroeber, FM, Vol. 5, 332, no. 136",collected before 1903,61,3,5,0,0,0,3,1,0,2,1,1,1,0,0,0,3,2,0,5,1,0,0,1,2
+Plains,Arapaho 5,"Dorsey and Kroeber, FM, Vol. 5, 339, no. 137.",collected before 1903,62,1,2,0,0,0,1,1,2,2,0,0,3,0,0,0,3,2,0,1,1,0,0,1,2
+Plains,Arapaho 6,"Dorsey and Kroeber, FM, Vol. 5, 339, note 3.",collected before 1903,63,3,2,2,0,3,1,1,0,2,0,0,1,0,0,0,3,2,0,5,0,0,0,1,2
+Plains,Arapaho 7,"Dorsey.and Kroeber, FM, Vol. 5, 340, no. 138",collected before 1903,64,3,5,2,0,2,1,3,2,2,1,1,1,0,0,0,0,0,0,5,0,0,0,1,2
+Plains,Arapaho 8,Salzmann manuscript,"July 1949 from John B. Goggles, aged 63 in Ethete, Wyoming, by Zdenek Salzmann",65,3,1,1,0,0,2,4,10,2,1,1,1,2,0,0,7,0,1,5,0,0,0,1,2
+Plains,Pawnee 1,"Dorsey, CI, Vol. 59, 56, no, 13",c. 1902 in Oklahoma,66,3,1,1,1,0,4,4,0,2,1,0,1,0,0,0,3,2,0,5,0,0,0,1,2
+Plains,Pawnee 2,"Dorsey, MAFLS, Vol. 8, 60, no. 16.",collected before 1904,67,3,1,1,1,0,4,4,1,2,1,0,1,0,0,0,3,2,0,5,0,0,0,1,2
+Plains,Pawnee 3,"Grinnell, JAFL, Vol. 7, 197","""several years"" before 1894",68,3,1,1,1,0,4,4,0,2,1,0,1,0,0,0,3,2,0,5,0,0,0,1,2
+Plains,Oto,"Kercheval, JAFL, Vol. 6, 199",before 1893,69,2,1,1,0,0,4,4,7,1,1,0,1,3,0,0,3,1,0,1,0,0,0,0,1
+Plains,Kiowa,"Mooney, RBAE, Vol. 17, 238",1892 in Oklahoma,70,1,2,0,0,0,1,3,0,2,1,1,1,0,0,0,3,0,0,5,0,0,0,1,2
+Plains,Wichita 1,"Dorsey, CI, Vol. 21, 298, no. 57",1900-3 in Oklahom,71,1,1,0,0,0,4,4,1,1,1,2,1,5,0,1,3,8,0,1,0,0,6,0,6
+Plains,Wichita 2,"Curtis, The North American Indian, Vol. 19, 102",n/a,72,1,1,1,2,0,4,4,1,1,0,0,0,0,0,0,3,8,0,1,0,0,6,0,0
+Plains,Seama,"Espinosa, J AFL, Vol. 49, 88",1931,73,1,7,0,0,0,0,3,0,2,0,0,0,1,1,0,0,0,0,1,0,0,0,7,0
+Southeast,Caddo,"Dorsey, CI, Vol. 41, 27, no. 14",1903-1905 in Oklahoma,74,1,1,1,1,0,4,4,1,1,0,0,2,5,0,2,3,9,0,1,0,0,6,0,6
+Southeast,Caddo 2,"Dorsey, CI, Vol. 41, 29, no. 15",1903-5 in Oklahoma,75,1,1,0,0,0,4,4,1,1,1,2,1,5,0,3,3,8,0,1,0,0,0,0,6
+Southeast,Koasati,"Swanton, BBAE, Vol. 88, 166, no. 4",1908-14,76,2,1,1,0,0,4,4,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Woodland,Ojibwa 1,"Speck, GSCan, Vol. 9, 47","1913, Bear Island, Lake Timazami.-",77,2,1,1,0,0,4,4,4,1,0,0,3,2,0,0,8,6,0,1,0,0,0,3,3
+Woodland,Ojibwa 2,"Jones, JAFL, Vol. 29, 371, no. 15","before 1915 at Bois Fort, north of Lake Superiol",78,2,0,1,0,0,4,4,0,1,0,0,3,2,0,0,2,0,0,1,0,0,0,3,3
+Woodland,Ojibwa 3,"Jones-Michelson, PAES, Vol. 7 (II), 151, no. 13",before 1919,79,2,1,1,0,0,4,4,4,1,0,0,3,2,0,0,2,0,0,1,0,0,0,3,3
+Woodland,Ojibwa 4,"Jones-Michelson, PAES, Vol. 7 (II), 455, no. 55",before 1919,80,2,1,1,0,0,4,4,4,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+Woodland,Ojibwa 5,"Radin and Reagan, JAFL, Vol. 41, 116, no. 22","1911-14 at Sarnia, Ontario",81,2,1,1,0,0,4,4,4,1,0,0,3,2,0,0,7,0,1,6,0,0,0,0,1
+Woodland,Micmac 1,"Rand, Legends of the Micmacs (New York, 1894), p. 160, no. 20","c. 1870 in Falmouth, Nova Scotia",82,2,1,1,0,0,4,4,5,1,4,0,0,4,0,0,7,0,0,1,0,0,0,3,3
+Woodland,Micmac 2,"Rand, Legends of the Micmacs (New York, 1894), p. 306, no. 55","September 7, 1870 from Susan Christmas",83,2,1,1,0,0,4,4,12,1,5,2,1,0,0,0,0,0,0,1,0,0,0,3,3
+Woodland,Micmac 3,"Parsons, JAFL, Vol. 38, 65",Learned from a woman who died in 1895. People report hearing stories from her in 187,84,2,1,1,0,0,4,4,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Woodland,Passamaquoddy 1,"Prince, PAES, Vol. 10, 61, no. 12","c. 1912 near Eastport, Maine",85,2,1,1,0,0,4,4,5,1,5,2,1,4,0,0,0,0,0,1,0,0,0,3,0
+Woodland,Passamaquoddy 2,"Leland, Algonquin Legends of New England (Boston 1885), p.140","1882 at Campobello, New Brunswick",86,2,1,1,0,0,4,4,5,1,5,2,1,0,0,0,7,0,2,1,0,0,0,3,3
