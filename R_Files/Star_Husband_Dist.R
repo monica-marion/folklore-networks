@@ -38,7 +38,7 @@ install_github('esibert/ichthyoliths', force = TRUE)
 # you can skip this step adn go to Step 0b: loading the .RData file 
 
 # You may need to set up the working directory for this script. 
-setwd('/Users/monicamarion/Desktop/Homework/I606/Star_Husband/R_Files')
+setwd('/Users/monicamarion/Desktop/Homework/I606/StarHusband_github/R_Files')
 
 
 ### Data we need here are: 
